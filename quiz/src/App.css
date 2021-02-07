@@ -1,0 +1,35 @@
+.question{
+    width: 70%;
+    margin:auto;
+}
+
+.options{
+    margin-top: 10px;
+}
+.btn{
+    color:whitesmoke;
+    background-color: rgb(59, 85, 230);
+    border:none;
+    width: 80px;
+    height: 30px;
+    margin-top: 100px;
+    cursor: pointer;
+    border-radius:5px;
+    display:block;
+}
+.text-input{
+    margin-top: 20px;
+    width: 50%;
+}
+
+.quiz{
+    width: 110px;
+    height: 35px;
+}
+
+.summary-attributes{
+    margin-top: 5px;
+}
+.summary-value{
+    font-weight: bold;
+}
